@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\pr16_1_KirillMalugin-main\pr16_1_KirillMalugin-main\bin\Debug\Prakt16Algoritm.exe.config
+C:\Users\user\Downloads\pr16_1_KirillMalugin-main\pr16_1_KirillMalugin-main\bin\Debug\Prakt16Algoritm.exe
+C:\Users\user\Downloads\pr16_1_KirillMalugin-main\pr16_1_KirillMalugin-main\bin\Debug\Prakt16Algoritm.pdb
+C:\Users\user\Downloads\pr16_1_KirillMalugin-main\pr16_1_KirillMalugin-main\obj\Debug\Prakt16Algoritmzad1.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\pr16_1_KirillMalugin-main\pr16_1_KirillMalugin-main\obj\Debug\Prakt16Algoritmzad1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\pr16_1_KirillMalugin-main\pr16_1_KirillMalugin-main\obj\Debug\Prakt16Algoritm.Form1.resources
+C:\Users\user\Downloads\pr16_1_KirillMalugin-main\pr16_1_KirillMalugin-main\obj\Debug\Prakt16Algoritm.Properties.Resources.resources
+C:\Users\user\Downloads\pr16_1_KirillMalugin-main\pr16_1_KirillMalugin-main\obj\Debug\Prakt16Algoritmzad1.csproj.GenerateResource.cache
+C:\Users\user\Downloads\pr16_1_KirillMalugin-main\pr16_1_KirillMalugin-main\obj\Debug\Prakt16Algoritmzad1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\pr16_1_KirillMalugin-main\pr16_1_KirillMalugin-main\obj\Debug\Prakt16Algoritm.exe
+C:\Users\user\Downloads\pr16_1_KirillMalugin-main\pr16_1_KirillMalugin-main\obj\Debug\Prakt16Algoritm.pdb
