@@ -1,0 +1,7 @@
+C:\Users\305-4\Desktop\tim\pr16_2_sepselev\bin\Debug\pr16_2_sepselev.exe.config
+C:\Users\305-4\Desktop\tim\pr16_2_sepselev\bin\Debug\pr16_2_sepselev.exe
+C:\Users\305-4\Desktop\tim\pr16_2_sepselev\bin\Debug\pr16_2_sepselev.pdb
+C:\Users\305-4\Desktop\tim\pr16_2_sepselev\obj\Debug\pr16_2_sepselev.csproj.AssemblyReference.cache
+C:\Users\305-4\Desktop\tim\pr16_2_sepselev\obj\Debug\pr16_2_sepselev.csproj.CoreCompileInputs.cache
+C:\Users\305-4\Desktop\tim\pr16_2_sepselev\obj\Debug\pr16_2_sepselev.exe
+C:\Users\305-4\Desktop\tim\pr16_2_sepselev\obj\Debug\pr16_2_sepselev.pdb
