@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\prac16_4_Sepselev\bin\Debug\prac16zad4.exe.config
+C:\Users\user\Downloads\prac16_4_Sepselev\bin\Debug\prac16zad4.exe
+C:\Users\user\Downloads\prac16_4_Sepselev\bin\Debug\prac16zad4.pdb
+C:\Users\user\Downloads\prac16_4_Sepselev\obj\Debug\pract16_4_Sepselev.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\prac16_4_Sepselev\obj\Debug\pract16_4_Sepselev.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\prac16_4_Sepselev\obj\Debug\prac16zad4.Form1.resources
+C:\Users\user\Downloads\prac16_4_Sepselev\obj\Debug\prac16zad4.Properties.Resources.resources
+C:\Users\user\Downloads\prac16_4_Sepselev\obj\Debug\pract16_4_Sepselev.csproj.GenerateResource.cache
+C:\Users\user\Downloads\prac16_4_Sepselev\obj\Debug\pract16_4_Sepselev.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\prac16_4_Sepselev\obj\Debug\prac16zad4.exe
+C:\Users\user\Downloads\prac16_4_Sepselev\obj\Debug\prac16zad4.pdb
